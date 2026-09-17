@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "6a207d48fca1bfc91b110a00"
+  },
+  "furnizorId": "f001",
+  "denumire": "Organic Time",
+  "tip": "magazin online / platforma de produse ECO",
+  "tara": "Republica Moldova",
+  "telefon": "+373 (60) 341 443",
+  "email": "comenzi@organictime.md",
+  "site": "https://organictime.md/",
+  "program": "Ln - Sb: 9:00 - 20:00",
+  "descriere": "Platforma online cu produse naturale si ECO.",
+  "sursa": "https://organictime.md/"
+},
+{
+  "_id": {
+    "$oid": "6a20828da1f61bea420c83ac"
+  },
+  "furnizorId": "f002",
+  "adresa": "Str. Armeneasca 25, of. 13",
+  "denumire": "MyEco.md",
+  "descriere": "Platforma online cu produse ECO pentru rufe, vase, curatenie si igiena.",
+  "program": "Luni - Vineri 09:00 - 17:00",
+  "site": "https://myeco.md/",
+  "sursa": "https://myeco.md/",
+  "tara": "Republica Moldova",
+  "telefon": "+37367380740",
+  "tip": "magazin online / furnizor produse ECO"
+}]

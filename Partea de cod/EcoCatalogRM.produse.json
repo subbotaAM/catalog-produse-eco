@@ -1,0 +1,115 @@
+[{
+  "_id": {
+    "$oid": "6a204860a0dc2c8d93a9c13e"
+  },
+  "produsId": "p003",
+  "numeProdus": "Gem de prune fără zahăr",
+  "categorieId": "cat001",
+  "categorie": "Produse alimentare ECO",
+  "pret": 65,
+  "moneda": "MDL",
+  "stoc": 40,
+  "producator": {
+    "producatorId": "prod001",
+    "denumire": "EcoMoldova Farm",
+    "localitate": "Orhei"
+  },
+  "ecoTags": [
+    "fără zahăr",
+    "natural",
+    "local"
+  ],
+  "ratingMediu": 4.7
+},
+{
+  "_id": {
+    "$oid": "6a20488ba0dc2c8d93a9c140"
+  },
+  "produsId": "p004",
+  "numeProdus": "Fructe uscate ECO",
+  "categorieId": "cat001",
+  "categorie": "Produse alimentare ECO",
+  "pret": 90,
+  "moneda": "MDL",
+  "stoc": 35,
+  "producator": {
+    "producatorId": "prod002",
+    "denumire": "VerdeNistru",
+    "localitate": "Criuleni"
+  },
+  "ecoTags": [
+    "fructe",
+    "uscat natural",
+    "local"
+  ],
+  "ratingMediu": 4.5
+},
+{
+  "_id": {
+    "$oid": "6a2048d9a0dc2c8d93a9c142"
+  },
+  "produsId": "p002",
+  "numeProdus": "Ceai natural de mentă",
+  "categorieId": "cat001",
+  "categorie": "Produse alimentare ECO",
+  "pret": 45,
+  "moneda": "MDL",
+  "stoc": 80,
+  "producator": {
+    "producatorId": "prod002",
+    "denumire": "VerdeNistru",
+    "localitate": "Criuleni"
+  },
+  "ecoTags": [
+    "plante",
+    "natural",
+    "local"
+  ],
+  "ratingMediu": 4.6
+},
+{
+  "_id": {
+    "$oid": "6a2048f3a0dc2c8d93a9c144"
+  },
+  "produsId": "p001",
+  "numeProdus": "Miere naturală ECO",
+  "categorieId": "cat001",
+  "categorie": "Produse alimentare ECO",
+  "pret": 120,
+  "moneda": "MDL",
+  "stoc": 50,
+  "producator": {
+    "producatorId": "prod001",
+    "denumire": "EcoMoldova Farm",
+    "localitate": "Orhei"
+  },
+  "ecoTags": [
+    "natural",
+    "local",
+    "fără aditivi"
+  ],
+  "ratingMediu": 4.9
+},
+{
+  "_id": {
+    "$oid": "6a204929a0dc2c8d93a9c146"
+  },
+  "produsId": "p005",
+  "numeProdus": "Ulei de floarea-soarelui presat la rece",
+  "categorieId": "cat001",
+  "categorie": "Produse alimentare ECO",
+  "pret": 110,
+  "moneda": "MDL",
+  "stoc": 25,
+  "producator": {
+    "producatorId": "prod001",
+    "denumire": "EcoMoldova Farm",
+    "localitate": "Orhei"
+  },
+  "ecoTags": [
+    "presat la rece",
+    "natural",
+    "local"
+  ],
+  "ratingMediu": 4.8
+}]

@@ -1,0 +1,54 @@
+[{
+  "_id": {
+    "$oid": "6a207d18fca1bfc91b1109f3"
+  },
+  "recenzieId": "r001",
+  "produsId": "ot_p001",
+  "utilizator": "Client anonim",
+  "rating": 5,
+  "comentariu": "Produs potrivit pentru sezonul cald si ingrijirea parului.",
+  "data": "2026-06-03"
+},
+{
+  "_id": {
+    "$oid": "6a207d18fca1bfc91b1109f4"
+  },
+  "recenzieId": "r002",
+  "produsId": "ot_p002",
+  "utilizator": "Client anonim",
+  "rating": 5,
+  "comentariu": "Detergent ECO cu volum mare si aroma placuta.",
+  "data": "2026-06-03"
+},
+{
+  "_id": {
+    "$oid": "6a207d18fca1bfc91b1109f5"
+  },
+  "recenzieId": "r003",
+  "produsId": "myeco_p004",
+  "utilizator": "Client anonim",
+  "rating": 4,
+  "comentariu": "Produs util pentru vase si potrivit pentru gospodarie.",
+  "data": "2026-06-03"
+},
+{
+  "_id": {
+    "$oid": "6a207d18fca1bfc91b1109f6"
+  },
+  "recenzieId": "r004",
+  "produsId": "myeco_p010",
+  "utilizator": "Client anonim",
+  "rating": 5,
+  "comentariu": "Sampon organic potrivit pentru ingrijire personala.",
+  "data": "2026-06-03"
+},
+{
+  "_id": {
+    "$oid": "6a207d18fca1bfc91b1109f7"
+  },
+  "recenzieId": "r005",
+  "produsId": "p007",
+  "utilizator": "Client anonim 5",
+  "rating": 4,
+  "comentariu": "Balsam natural simplu și comod."
+}]

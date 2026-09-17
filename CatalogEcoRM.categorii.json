@@ -1,0 +1,90 @@
+[{
+  "_id": {
+    "$oid": "6a207d3cfca1bfc91b1109fa"
+  },
+  "categorieId": "cat001",
+  "denumire": "Protectie solara",
+  "sursa": "https://organictime.md/spf/",
+  "descriere": "Produse ECO pentru protectie solara si ingrijire dupa plaja."
+},
+{
+  "_id": {
+    "$oid": "6a207d3cfca1bfc91b1109fb"
+  },
+  "categorieId": "cat002",
+  "denumire": "Cosmetica ECO",
+  "sursa": "https://organictime.md/",
+  "descriere": "Cosmetice naturale si organice."
+},
+{
+  "_id": {
+    "$oid": "6a207d3cfca1bfc91b1109fc"
+  },
+  "categorieId": "cat003",
+  "denumire": "Detergenti Eco",
+  "sursa": "https://organictime.md/",
+  "descriere": "Detergenti si solutii ECO pentru rufe si curatenie."
+},
+{
+  "_id": {
+    "$oid": "6a207d3cfca1bfc91b1109fd"
+  },
+  "categorieId": "cat004",
+  "denumire": "Igiena Personala",
+  "sursa": "https://organictime.md/",
+  "descriere": "Produse pentru igiena personala si ingrijire."
+},
+{
+  "_id": {
+    "$oid": "6a207d3cfca1bfc91b1109fe"
+  },
+  "categorieId": "cat005",
+  "denumire": "Ingrijire mama si bebe",
+  "sursa": "https://organictime.md/",
+  "descriere": "Produse ECO pentru bebelusi, copii si piele sensibila."
+},
+{
+  "_id": {
+    "$oid": "6a20828da1f61bea420c83ad"
+  },
+  "categorieId": "myeco_cat001",
+  "denumire": "Rufe",
+  "descriere": "Detergenti ecologici pentru rufe.",
+  "sursa": "https://myeco.md/"
+},
+{
+  "_id": {
+    "$oid": "6a20828da1f61bea420c83ae"
+  },
+  "categorieId": "myeco_cat002",
+  "denumire": "Vase",
+  "descriere": "Produse ecologice pentru spalarea vaselor.",
+  "sursa": "https://myeco.md/"
+},
+{
+  "_id": {
+    "$oid": "6a20828da1f61bea420c83af"
+  },
+  "categorieId": "myeco_cat003",
+  "denumire": "Curatenie",
+  "descriere": "Produse ECO pentru suprafete, baie, geamuri si toaleta.",
+  "sursa": "https://myeco.md/"
+},
+{
+  "_id": {
+    "$oid": "6a20828da1f61bea420c83b0"
+  },
+  "categorieId": "myeco_cat004",
+  "denumire": "Igiena personala",
+  "descriere": "Produse pentru igiena si ingrijire personala.",
+  "sursa": "https://myeco.md/"
+},
+{
+  "_id": {
+    "$oid": "6a20828da1f61bea420c83b1"
+  },
+  "categorieId": "myeco_cat005",
+  "denumire": "Refill",
+  "descriere": "Produse refill si solutii pentru reducerea ambalajelor.",
+  "sursa": "https://myeco.md/"
+}]

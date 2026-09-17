@@ -1,0 +1,12 @@
+[{
+  "_id": {
+    "$oid": "6a203db9a0dc2c8d93a9c11e"
+  },
+  "nume": "Ion Ceban",
+  "email": "ion.ceban@gmail.com",
+  "rol": "client",
+  "preferinte": [
+    "produse alimentare ECO",
+    "produse locale"
+  ]
+}]

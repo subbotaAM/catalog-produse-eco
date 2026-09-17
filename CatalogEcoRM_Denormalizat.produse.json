@@ -1,0 +1,1368 @@
+[{
+  "_id": {
+    "$oid": "6a207e25fca1bfc91b110a03"
+  },
+  "produsId": "p001",
+  "numeProdus": "Balsam de buze mineral organic cu oxid de zinc SPF 50",
+  "categorie": {
+    "categorieId": "cat001",
+    "denumire": "Protecție solară"
+  },
+  "furnizor": {
+    "furnizorId": "f001",
+    "denumire": "Organic Time",
+    "site": "https://organictime.md/"
+  },
+  "brand": "We Love",
+  "pret": 230,
+  "moneda": "MDL",
+  "stoc": 53,
+  "ecoTags": [
+    "SPF",
+    "balsam buze",
+    "mineral",
+    "organic"
+  ],
+  "sursa": "https://organictime.md/spf/",
+  "actualizatLa": "2026-06-03"
+},
+{
+  "_id": {
+    "$oid": "6a207e25fca1bfc91b110a04"
+  },
+  "produsId": "p002",
+  "numeProdus": "Balsam de buze mineral organic nuanțat SPF 30",
+  "categorie": {
+    "categorieId": "cat001",
+    "denumire": "Protecție solară"
+  },
+  "furnizor": {
+    "furnizorId": "f001",
+    "denumire": "Organic Time",
+    "site": "https://organictime.md/"
+  },
+  "brand": "We Love",
+  "pret": 230,
+  "moneda": "MDL",
+  "stoc": 56,
+  "ecoTags": [
+    "SPF",
+    "nuanțat",
+    "balsam buze"
+  ],
+  "sursa": "https://organictime.md/spf/",
+  "actualizatLa": "2026-06-03"
+},
+{
+  "_id": {
+    "$oid": "6a207e25fca1bfc91b110a05"
+  },
+  "produsId": "p003",
+  "numeProdus": "Cremă minerală organică pentru protecție solară SPF 30",
+  "categorie": {
+    "categorieId": "cat001",
+    "denumire": "Protecție solară"
+  },
+  "furnizor": {
+    "furnizorId": "f001",
+    "denumire": "Organic Time",
+    "site": "https://organictime.md/"
+  },
+  "brand": "Organic sunscreen",
+  "pret": 530,
+  "moneda": "MDL",
+  "stoc": 59,
+  "ecoTags": [
+    "SPF30",
+    "cremă",
+    "mineral"
+  ],
+  "sursa": "https://organictime.md/spf/",
+  "actualizatLa": "2026-06-03"
+},
+{
+  "_id": {
+    "$oid": "6a207e25fca1bfc91b110a06"
+  },
+  "produsId": "p004",
+  "numeProdus": "Cremă protecție solară minerală organică activă SPF 50",
+  "categorie": {
+    "categorieId": "cat001",
+    "denumire": "Protecție solară"
+  },
+  "furnizor": {
+    "furnizorId": "f001",
+    "denumire": "Organic Time",
+    "site": "https://organictime.md/"
+  },
+  "brand": "Organic sunscreen",
+  "pret": 530,
+  "moneda": "MDL",
+  "stoc": 62,
+  "ecoTags": [
+    "SPF50",
+    "cremă",
+    "mineral"
+  ],
+  "sursa": "https://organictime.md/spf/",
+  "actualizatLa": "2026-06-03"
+},
+{
+  "_id": {
+    "$oid": "6a207e25fca1bfc91b110a07"
+  },
+  "produsId": "p005",
+  "numeProdus": "Spray pentru păr - Sun Protect 150 ml",
+  "categorie": {
+    "categorieId": "cat001",
+    "denumire": "Protecție solară"
+  },
+  "furnizor": {
+    "furnizorId": "f001",
+    "denumire": "Organic Time",
+    "site": "https://organictime.md/"
+  },
+  "brand": "Biologist Mood",
+  "pret": 650,
+  "moneda": "MDL",
+  "stoc": 65,
+  "ecoTags": [
+    "păr",
+    "SPF",
+    "spray"
+  ],
+  "sursa": "https://organictime.md/spf/",
+  "actualizatLa": "2026-06-03"
+},
+{
+  "_id": {
+    "$oid": "6a207e25fca1bfc91b110a08"
+  },
+  "produsId": "p006",
+  "numeProdus": "ABC Cremă Intens Hidratantă 50 ml - LABRAINS",
+  "categorie": {
+    "categorieId": "cat002",
+    "denumire": "Cosmetică Eco"
+  },
+  "furnizor": {
+    "furnizorId": "f001",
+    "denumire": "Organic Time",
+    "site": "https://organictime.md/"
+  },
+  "brand": "LABRAINS",
+  "pret": 1487,
+  "moneda": "MDL",
+  "stoc": 68,
+  "ecoTags": [
+    "cremă",
+    "hidratare",
+    "față"
+  ],
+  "sursa": "https://organictime.md/cosmetica/",
+  "actualizatLa": "2026-06-03"
+},
+{
+  "_id": {
+    "$oid": "6a207e25fca1bfc91b110a09"
+  },
+  "produsId": "p007",
+  "numeProdus": "Balsam de buze natural - Velvet Care - We Love",
+  "categorie": {
+    "categorieId": "cat002",
+    "denumire": "Cosmetică Eco"
+  },
+  "furnizor": {
+    "furnizorId": "f001",
+    "denumire": "Organic Time",
+    "site": "https://organictime.md/"
+  },
+  "brand": "We Love",
+  "pret": 160,
+  "moneda": "MDL",
+  "stoc": 71,
+  "ecoTags": [
+    "balsam buze",
+    "natural",
+    "îngrijire"
+  ],
+  "sursa": "https://organictime.md/cosmetica/",
+  "actualizatLa": "2026-06-03"
+},
+{
+  "_id": {
+    "$oid": "6a207e25fca1bfc91b110a0a"
+  },
+  "produsId": "p008",
+  "numeProdus": "Balsam de buze natural - Velvet Daily - We Love",
+  "categorie": {
+    "categorieId": "cat002",
+    "denumire": "Cosmetică Eco"
+  },
+  "furnizor": {
+    "furnizorId": "f001",
+    "denumire": "Organic Time",
+    "site": "https://organictime.md/"
+  },
+  "brand": "We Love",
+  "pret": 160,
+  "moneda": "MDL",
+  "stoc": 74,
+  "ecoTags": [
+    "balsam buze",
+    "natural",
+    "zilnic"
+  ],
+  "sursa": "https://organictime.md/cosmetica/",
+  "actualizatLa": "2026-06-03"
+},
+{
+  "_id": {
+    "$oid": "6a207e25fca1bfc91b110a0b"
+  },
+  "produsId": "p009",
+  "numeProdus": "BB Cream Light - nuanță deschisă cu subtonuri calde 50 ml - LABRAINS",
+  "categorie": {
+    "categorieId": "cat002",
+    "denumire": "Cosmetică Eco"
+  },
+  "furnizor": {
+    "furnizorId": "f001",
+    "denumire": "Organic Time",
+    "site": "https://organictime.md/"
+  },
+  "brand": "LABRAINS",
+  "pret": 1037,
+  "moneda": "MDL",
+  "stoc": 77,
+  "ecoTags": [
+    "BB cream",
+    "ten",
+    "LABRAINS"
+  ],
+  "sursa": "https://organictime.md/cosmetica/",
+  "actualizatLa": "2026-06-03"
+},
+{
+  "_id": {
+    "$oid": "6a207e25fca1bfc91b110a0c"
+  },
+  "produsId": "p010",
+  "numeProdus": "Cremă Regenerantă - Dermatitis Cream 50 ml - LABRAINS",
+  "categorie": {
+    "categorieId": "cat002",
+    "denumire": "Cosmetică Eco"
+  },
+  "furnizor": {
+    "furnizorId": "f001",
+    "denumire": "Organic Time",
+    "site": "https://organictime.md/"
+  },
+  "brand": "LABRAINS",
+  "pret": 1071,
+  "moneda": "MDL",
+  "stoc": 80,
+  "ecoTags": [
+    "cremă",
+    "regenerare",
+    "dermatitis"
+  ],
+  "sursa": "https://organictime.md/cosmetica/",
+  "actualizatLa": "2026-06-03"
+},
+{
+  "_id": {
+    "$oid": "6a207e25fca1bfc91b110a0d"
+  },
+  "produsId": "p011",
+  "numeProdus": "Acid citric Eco 350 gr.",
+  "categorie": {
+    "categorieId": "cat003",
+    "denumire": "Ecodoo Detergenți Eco"
+  },
+  "furnizor": {
+    "furnizorId": "f001",
+    "denumire": "Organic Time",
+    "site": "https://organictime.md/"
+  },
+  "brand": "Ecodoo",
+  "pret": 220,
+  "moneda": "MDL",
+  "stoc": 83,
+  "ecoTags": [
+    "curățenie",
+    "eco",
+    "acid citric"
+  ],
+  "sursa": "https://organictime.md/detergenti/",
+  "actualizatLa": "2026-06-03"
+},
+{
+  "_id": {
+    "$oid": "6a207e25fca1bfc91b110a0e"
+  },
+  "produsId": "p012",
+  "numeProdus": "Balsam Eco de Rufe cu Miros de Lavandă 1L",
+  "categorie": {
+    "categorieId": "cat003",
+    "denumire": "Ecodoo Detergenți Eco"
+  },
+  "furnizor": {
+    "furnizorId": "f001",
+    "denumire": "Organic Time",
+    "site": "https://organictime.md/"
+  },
+  "brand": "Ecodoo",
+  "pret": 220,
+  "moneda": "MDL",
+  "stoc": 86,
+  "ecoTags": [
+    "rufe",
+    "lavandă",
+    "eco"
+  ],
+  "sursa": "https://organictime.md/detergenti/",
+  "actualizatLa": "2026-06-03"
+},
+{
+  "_id": {
+    "$oid": "6a207e25fca1bfc91b110a0f"
+  },
+  "produsId": "p013",
+  "numeProdus": "Balsam Eco de Rufe cu Miros de Piersic 1L",
+  "categorie": {
+    "categorieId": "cat003",
+    "denumire": "Ecodoo Detergenți Eco"
+  },
+  "furnizor": {
+    "furnizorId": "f001",
+    "denumire": "Organic Time",
+    "site": "https://organictime.md/"
+  },
+  "brand": "Ecodoo",
+  "pret": 220,
+  "moneda": "MDL",
+  "stoc": 89,
+  "ecoTags": [
+    "rufe",
+    "piersic",
+    "eco"
+  ],
+  "sursa": "https://organictime.md/detergenti/",
+  "actualizatLa": "2026-06-03"
+},
+{
+  "_id": {
+    "$oid": "6a207e25fca1bfc91b110a10"
+  },
+  "produsId": "p014",
+  "numeProdus": "Bicarbonat Eco de Sodiu pentru menaj 500 gr.",
+  "categorie": {
+    "categorieId": "cat003",
+    "denumire": "Ecodoo Detergenți Eco"
+  },
+  "furnizor": {
+    "furnizorId": "f001",
+    "denumire": "Organic Time",
+    "site": "https://organictime.md/"
+  },
+  "brand": "Ecodoo",
+  "pret": 190,
+  "moneda": "MDL",
+  "stoc": 92,
+  "ecoTags": [
+    "bicarbonat",
+    "menaj",
+    "eco"
+  ],
+  "sursa": "https://organictime.md/detergenti/",
+  "actualizatLa": "2026-06-03"
+},
+{
+  "_id": {
+    "$oid": "6a207e25fca1bfc91b110a11"
+  },
+  "produsId": "p015",
+  "numeProdus": "Burete vegetal de bucătărie 2 buc.",
+  "categorie": {
+    "categorieId": "cat003",
+    "denumire": "Ecodoo Detergenți Eco"
+  },
+  "furnizor": {
+    "furnizorId": "f001",
+    "denumire": "Organic Time",
+    "site": "https://organictime.md/"
+  },
+  "brand": "Ecodoo",
+  "pret": 90,
+  "moneda": "MDL",
+  "stoc": 95,
+  "ecoTags": [
+    "bucătărie",
+    "vegetal",
+    "eco"
+  ],
+  "sursa": "https://organictime.md/detergenti/",
+  "actualizatLa": "2026-06-03"
+},
+{
+  "_id": {
+    "$oid": "6a207e25fca1bfc91b110a12"
+  },
+  "produsId": "p016",
+  "numeProdus": "Amestec de uleiuri esențiale organice Alert & Bright 10 ml",
+  "categorie": {
+    "categorieId": "cat004",
+    "denumire": "Uleiuri esențiale naturale"
+  },
+  "furnizor": {
+    "furnizorId": "f001",
+    "denumire": "Organic Time",
+    "site": "https://organictime.md/"
+  },
+  "brand": "Organic oil blend",
+  "pret": 199,
+  "moneda": "MDL",
+  "stoc": 98,
+  "ecoTags": [
+    "ulei esențial",
+    "organic",
+    "energie"
+  ],
+  "sursa": "https://organictime.md/uleiuri-esentiale/",
+  "actualizatLa": "2026-06-03"
+},
+{
+  "_id": {
+    "$oid": "6a207e25fca1bfc91b110a13"
+  },
+  "produsId": "p017",
+  "numeProdus": "Amestec de uleiuri esențiale organice Breathe Free 10 ml",
+  "categorie": {
+    "categorieId": "cat004",
+    "denumire": "Uleiuri esențiale naturale"
+  },
+  "furnizor": {
+    "furnizorId": "f001",
+    "denumire": "Organic Time",
+    "site": "https://organictime.md/"
+  },
+  "brand": "Organic oil blend",
+  "pret": 199,
+  "moneda": "MDL",
+  "stoc": 101,
+  "ecoTags": [
+    "ulei esențial",
+    "respirație",
+    "organic"
+  ],
+  "sursa": "https://organictime.md/uleiuri-esentiale/",
+  "actualizatLa": "2026-06-03"
+},
+{
+  "_id": {
+    "$oid": "6a207e25fca1bfc91b110a14"
+  },
+  "produsId": "p018",
+  "numeProdus": "Amestec de uleiuri esențiale organice Christmas Glory 10 ml",
+  "categorie": {
+    "categorieId": "cat004",
+    "denumire": "Uleiuri esențiale naturale"
+  },
+  "furnizor": {
+    "furnizorId": "f001",
+    "denumire": "Organic Time",
+    "site": "https://organictime.md/"
+  },
+  "brand": "Organic oil blend",
+  "pret": 199,
+  "moneda": "MDL",
+  "stoc": 104,
+  "ecoTags": [
+    "ulei esențial",
+    "aromaterapie",
+    "organic"
+  ],
+  "sursa": "https://organictime.md/uleiuri-esentiale/",
+  "actualizatLa": "2026-06-03"
+},
+{
+  "_id": {
+    "$oid": "6a207e25fca1bfc91b110a15"
+  },
+  "produsId": "p019",
+  "numeProdus": "Amestec de uleiuri esențiale organice de mentă 10 ml",
+  "categorie": {
+    "categorieId": "cat004",
+    "denumire": "Uleiuri esențiale naturale"
+  },
+  "furnizor": {
+    "furnizorId": "f001",
+    "denumire": "Organic Time",
+    "site": "https://organictime.md/"
+  },
+  "brand": "Organic oil blend",
+  "pret": 199,
+  "moneda": "MDL",
+  "stoc": 107,
+  "ecoTags": [
+    "mentă",
+    "ulei esențial",
+    "organic"
+  ],
+  "sursa": "https://organictime.md/uleiuri-esentiale/",
+  "actualizatLa": "2026-06-03"
+},
+{
+  "_id": {
+    "$oid": "6a207e25fca1bfc91b110a16"
+  },
+  "produsId": "p020",
+  "numeProdus": "Amestec de uleiuri esențiale organice Focus & Inspiration 10 ml",
+  "categorie": {
+    "categorieId": "cat004",
+    "denumire": "Uleiuri esențiale naturale"
+  },
+  "furnizor": {
+    "furnizorId": "f001",
+    "denumire": "Organic Time",
+    "site": "https://organictime.md/"
+  },
+  "brand": "Organic oil blend",
+  "pret": 199,
+  "moneda": "MDL",
+  "stoc": 110,
+  "ecoTags": [
+    "focus",
+    "aromaterapie",
+    "organic"
+  ],
+  "sursa": "https://organictime.md/uleiuri-esentiale/",
+  "actualizatLa": "2026-06-03"
+},
+{
+  "_id": {
+    "$oid": "6a207e25fca1bfc91b110a17"
+  },
+  "produsId": "p021",
+  "numeProdus": "Absorbante pe bază de plante - Kit & Kin",
+  "categorie": {
+    "categorieId": "cat005",
+    "denumire": "Scutece și șervețele"
+  },
+  "furnizor": {
+    "furnizorId": "f001",
+    "denumire": "Organic Time",
+    "site": "https://organictime.md/"
+  },
+  "brand": "Kit & Kin",
+  "pret": 390,
+  "moneda": "MDL",
+  "stoc": 113,
+  "ecoTags": [
+    "plante",
+    "igienă",
+    "eco"
+  ],
+  "sursa": "https://organictime.md/scutece-servetele/",
+  "actualizatLa": "2026-06-03"
+},
+{
+  "_id": {
+    "$oid": "6a207e25fca1bfc91b110a18"
+  },
+  "produsId": "p022",
+  "numeProdus": "Chiloței Hipoalergenic Ecologic Kit & Kin, mărimea 7, 17 kg+, 96 buc.",
+  "categorie": {
+    "categorieId": "cat005",
+    "denumire": "Scutece și șervețele"
+  },
+  "furnizor": {
+    "furnizorId": "f001",
+    "denumire": "Organic Time",
+    "site": "https://organictime.md/"
+  },
+  "brand": "Kit & Kin",
+  "pret": 1740,
+  "moneda": "MDL",
+  "stoc": 116,
+  "ecoTags": [
+    "chiloței",
+    "hipoalergenic",
+    "eco"
+  ],
+  "sursa": "https://organictime.md/scutece-servetele/",
+  "actualizatLa": "2026-06-03"
+},
+{
+  "_id": {
+    "$oid": "6a207e25fca1bfc91b110a19"
+  },
+  "produsId": "p023",
+  "numeProdus": "Chiloței Hipoalergenic Ecologic Kit & Kin, mărimea 8, 19 kg+, 84 buc",
+  "categorie": {
+    "categorieId": "cat005",
+    "denumire": "Scutece și șervețele"
+  },
+  "furnizor": {
+    "furnizorId": "f001",
+    "denumire": "Organic Time",
+    "site": "https://organictime.md/"
+  },
+  "brand": "Kit & Kin",
+  "pret": 1740,
+  "moneda": "MDL",
+  "stoc": 119,
+  "ecoTags": [
+    "chiloței",
+    "hipoalergenic",
+    "eco"
+  ],
+  "sursa": "https://organictime.md/scutece-servetele/",
+  "actualizatLa": "2026-06-03"
+},
+{
+  "_id": {
+    "$oid": "6a207e25fca1bfc91b110a1a"
+  },
+  "produsId": "p024",
+  "numeProdus": "Pelinci biodegradabile, 100 buc. - Kit & Kin",
+  "categorie": {
+    "categorieId": "cat005",
+    "denumire": "Scutece și șervețele"
+  },
+  "furnizor": {
+    "furnizorId": "f001",
+    "denumire": "Organic Time",
+    "site": "https://organictime.md/"
+  },
+  "brand": "Kit & Kin",
+  "pret": 210,
+  "moneda": "MDL",
+  "stoc": 122,
+  "ecoTags": [
+    "biodegradabil",
+    "pelingi",
+    "copii"
+  ],
+  "sursa": "https://organictime.md/scutece-servetele/",
+  "actualizatLa": "2026-06-03"
+},
+{
+  "_id": {
+    "$oid": "6a207e25fca1bfc91b110a1b"
+  },
+  "produsId": "p025",
+  "numeProdus": "Saci biodegradabili pentru scutece - Kit & Kin",
+  "categorie": {
+    "categorieId": "cat005",
+    "denumire": "Scutece și șervețele"
+  },
+  "furnizor": {
+    "furnizorId": "f001",
+    "denumire": "Organic Time",
+    "site": "https://organictime.md/"
+  },
+  "brand": "Kit & Kin",
+  "pret": 99,
+  "moneda": "MDL",
+  "stoc": 125,
+  "ecoTags": [
+    "biodegradabil",
+    "accesorii",
+    "scutece"
+  ],
+  "sursa": "https://organictime.md/scutece-servetele/",
+  "actualizatLa": "2026-06-03"
+},
+{
+  "_id": {
+    "$oid": "6a20828da1f61bea420c83c6"
+  },
+  "produsId": "ot_p001",
+  "actualizatLa": "2026-06-03",
+  "brand": "Biologist Mood",
+  "categorie": {
+    "categorieId": "cat001",
+    "denumire": "Protectie solara",
+    "descriere": "Produse ECO pentru protectie solara si ingrijire dupa plaja."
+  },
+  "disponibilitate": "Disponibil",
+  "ecoTags": [
+    "SPF",
+    "protectie solara",
+    "ingrijire par",
+    "natural"
+  ],
+  "furnizor": {
+    "furnizorId": "f001",
+    "denumire": "Organic Time",
+    "site": "https://organictime.md/",
+    "telefon": "+373 (60) 341 443"
+  },
+  "moneda": "MDL",
+  "numeProdus": "Spray pentru par - Sun Protect 150 ml",
+  "pret": 650,
+  "ratingMediu": 5,
+  "recenzii": [
+    {
+      "recenzieId": "r001",
+      "utilizator": "Client anonim",
+      "rating": 5,
+      "comentariu": "Produs potrivit pentru sezonul cald si ingrijirea parului.",
+      "data": "2026-06-03"
+    }
+  ],
+  "stoc": 30,
+  "sursa": "https://organictime.md/spray-sun-protect-150-ml/"
+},
+{
+  "_id": {
+    "$oid": "6a20828da1f61bea420c83c7"
+  },
+  "produsId": "ot_p002",
+  "actualizatLa": "2026-06-03",
+  "brand": "Ecodoo",
+  "categorie": {
+    "categorieId": "cat003",
+    "denumire": "Detergenti Eco",
+    "descriere": "Detergenti si solutii ECO pentru rufe si curatenie."
+  },
+  "disponibilitate": "Disponibil",
+  "ecoTags": [
+    "detergent eco",
+    "lavanda",
+    "rufe",
+    "biodegradabil"
+  ],
+  "furnizor": {
+    "furnizorId": "f001",
+    "denumire": "Organic Time",
+    "site": "https://organictime.md/",
+    "telefon": "+373 (60) 341 443"
+  },
+  "moneda": "MDL",
+  "numeProdus": "Detergent Eco pentru Rufe cu Aroma de Lavanda, 5 L",
+  "pret": 690,
+  "ratingMediu": 5,
+  "recenzii": [
+    {
+      "recenzieId": "r002",
+      "utilizator": "Client anonim",
+      "rating": 5,
+      "comentariu": "Detergent ECO cu volum mare si aroma placuta.",
+      "data": "2026-06-03"
+    }
+  ],
+  "stoc": 20,
+  "sursa": "https://organictime.md/"
+},
+{
+  "_id": {
+    "$oid": "6a20828da1f61bea420c83c8"
+  },
+  "produsId": "ot_p003",
+  "actualizatLa": "2026-06-03",
+  "brand": "We Love",
+  "categorie": {
+    "categorieId": "cat001",
+    "denumire": "Protectie solara",
+    "descriere": "Produse ECO pentru protectie solara si ingrijire dupa plaja."
+  },
+  "disponibilitate": "Disponibil",
+  "ecoTags": [
+    "balsam buze",
+    "SPF 30",
+    "organic",
+    "mineral"
+  ],
+  "furnizor": {
+    "furnizorId": "f001",
+    "denumire": "Organic Time",
+    "site": "https://organictime.md/",
+    "telefon": "+373 (60) 341 443"
+  },
+  "moneda": "MDL",
+  "numeProdus": "Balsam de buze mineral organic nuantat SPF 30",
+  "pret": 230,
+  "ratingMediu": 0,
+  "recenzii": [],
+  "stoc": 45,
+  "sursa": "https://organictime.md/"
+},
+{
+  "_id": {
+    "$oid": "6a20828da1f61bea420c83c9"
+  },
+  "produsId": "ot_p004",
+  "actualizatLa": "2026-06-03",
+  "brand": "We Love",
+  "categorie": {
+    "categorieId": "cat001",
+    "denumire": "Protectie solara",
+    "descriere": "Produse ECO pentru protectie solara si ingrijire dupa plaja."
+  },
+  "disponibilitate": "Disponibil",
+  "ecoTags": [
+    "balsam buze",
+    "SPF 50",
+    "oxid de zinc",
+    "organic"
+  ],
+  "furnizor": {
+    "furnizorId": "f001",
+    "denumire": "Organic Time",
+    "site": "https://organictime.md/",
+    "telefon": "+373 (60) 341 443"
+  },
+  "moneda": "MDL",
+  "numeProdus": "Balsam de buze mineral organic cu oxid de zinc SPF 50",
+  "pret": 230,
+  "ratingMediu": 0,
+  "recenzii": [],
+  "stoc": 42,
+  "sursa": "https://organictime.md/"
+},
+{
+  "_id": {
+    "$oid": "6a20828da1f61bea420c83ca"
+  },
+  "produsId": "ot_p005",
+  "actualizatLa": "2026-06-03",
+  "brand": "Organic Time",
+  "categorie": {
+    "categorieId": "cat001",
+    "denumire": "Protectie solara",
+    "descriere": "Produse ECO pentru protectie solara si ingrijire dupa plaja."
+  },
+  "disponibilitate": "Disponibil",
+  "ecoTags": [
+    "aloe vera",
+    "dupa plaja",
+    "organic",
+    "ingrijire piele"
+  ],
+  "furnizor": {
+    "furnizorId": "f001",
+    "denumire": "Organic Time",
+    "site": "https://organictime.md/",
+    "telefon": "+373 (60) 341 443"
+  },
+  "moneda": "MDL",
+  "numeProdus": "Gel organic dupa plaja cu dubla aloe vera",
+  "pret": 460,
+  "ratingMediu": 0,
+  "recenzii": [],
+  "stoc": 18,
+  "sursa": "https://organictime.md/"
+},
+{
+  "_id": {
+    "$oid": "6a20828da1f61bea420c83cb"
+  },
+  "produsId": "ot_p006",
+  "actualizatLa": "2026-06-03",
+  "brand": "Organic Time",
+  "categorie": {
+    "categorieId": "cat005",
+    "denumire": "Ingrijire mama si bebe",
+    "descriere": "Produse ECO pentru bebelusi, copii si piele sensibila."
+  },
+  "disponibilitate": "Disponibil",
+  "ecoTags": [
+    "bebelusi",
+    "copii",
+    "SPF 30",
+    "mineral"
+  ],
+  "furnizor": {
+    "furnizorId": "f001",
+    "denumire": "Organic Time",
+    "site": "https://organictime.md/",
+    "telefon": "+373 (60) 341 443"
+  },
+  "moneda": "MDL",
+  "numeProdus": "Protectie solara minerala organica pentru bebelusi si copii SPF 30",
+  "pret": 530,
+  "ratingMediu": 0,
+  "recenzii": [],
+  "stoc": 24,
+  "sursa": "https://organictime.md/spf/"
+},
+{
+  "_id": {
+    "$oid": "6a20828da1f61bea420c83cc"
+  },
+  "produsId": "ot_p007",
+  "actualizatLa": "2026-06-03",
+  "brand": "Ecodoo",
+  "categorie": {
+    "categorieId": "cat003",
+    "denumire": "Detergenti Eco",
+    "descriere": "Detergenti si solutii ECO pentru rufe si curatenie."
+  },
+  "disponibilitate": "Disponibil",
+  "ecoTags": [
+    "hipoalergenic",
+    "fara parfum",
+    "bebelusi",
+    "detergent eco"
+  ],
+  "furnizor": {
+    "furnizorId": "f001",
+    "denumire": "Organic Time",
+    "site": "https://organictime.md/",
+    "telefon": "+373 (60) 341 443"
+  },
+  "moneda": "MDL",
+  "numeProdus": "Detergent Eco hipoalergenic fara parfum pentru bebelusi, 5 L",
+  "pret": 690,
+  "ratingMediu": 0,
+  "recenzii": [],
+  "stoc": 15,
+  "sursa": "https://organictime.md/"
+},
+{
+  "_id": {
+    "$oid": "6a20828da1f61bea420c83cd"
+  },
+  "produsId": "ot_p008",
+  "actualizatLa": "2026-06-03",
+  "brand": "Douce Nature",
+  "categorie": {
+    "categorieId": "cat004",
+    "denumire": "Igiena Personala",
+    "descriere": "Produse pentru igiena personala si ingrijire."
+  },
+  "disponibilitate": "Disponibil",
+  "ecoTags": [
+    "servetele",
+    "hipoalergenic",
+    "biodegradabil",
+    "igiena"
+  ],
+  "furnizor": {
+    "furnizorId": "f001",
+    "denumire": "Organic Time",
+    "site": "https://organictime.md/",
+    "telefon": "+373 (60) 341 443"
+  },
+  "moneda": "MDL",
+  "numeProdus": "Servetele feminine hipoalergenice si biodegradabile",
+  "pret": 99,
+  "ratingMediu": 0,
+  "recenzii": [],
+  "stoc": 60,
+  "sursa": "https://organictime.md/"
+},
+{
+  "_id": {
+    "$oid": "6a20828da1f61bea420c83ce"
+  },
+  "produsId": "myeco_p001",
+  "actualizatLa": "2026-06-03",
+  "brand": "Ecover",
+  "categorie": {
+    "categorieId": "myeco_cat001",
+    "denumire": "Rufe",
+    "descriere": "Detergenti ecologici pentru rufe."
+  },
+  "disponibilitate": "Out of Stock",
+  "ecoTags": [
+    "detergent rufe",
+    "haine colorate",
+    "eco",
+    "Ecover"
+  ],
+  "furnizor": {
+    "furnizorId": "f002",
+    "denumire": "MyEco.md",
+    "site": "https://myeco.md/",
+    "telefon": "+37367380740"
+  },
+  "moneda": "MDL",
+  "numeProdus": "ECOVER Detergent lichid pentru haine colorate Flori de mar si Freesia 750 ml",
+  "pret": 380,
+  "ratingMediu": 0,
+  "recenzii": [],
+  "stoc": 0,
+  "sursa": "https://myeco.md/"
+},
+{
+  "_id": {
+    "$oid": "6a20828da1f61bea420c83cf"
+  },
+  "produsId": "myeco_p002",
+  "actualizatLa": "2026-06-03",
+  "brand": "Ecover",
+  "categorie": {
+    "categorieId": "myeco_cat001",
+    "denumire": "Rufe",
+    "descriere": "Detergenti ecologici pentru rufe."
+  },
+  "disponibilitate": "In stoc",
+  "ecoTags": [
+    "balsam rufe",
+    "piele sensibila",
+    "ZERO",
+    "eco"
+  ],
+  "furnizor": {
+    "furnizorId": "f002",
+    "denumire": "MyEco.md",
+    "site": "https://myeco.md/",
+    "telefon": "+37367380740"
+  },
+  "moneda": "MDL",
+  "numeProdus": "Ecover Balsam pentru tesaturi ZERO, pentru piele sensibila 1L",
+  "pret": 180,
+  "ratingMediu": 0,
+  "recenzii": [],
+  "stoc": 20,
+  "sursa": "https://myeco.md/"
+},
+{
+  "_id": {
+    "$oid": "6a20828da1f61bea420c83d0"
+  },
+  "produsId": "myeco_p003",
+  "actualizatLa": "2026-06-03",
+  "brand": "Ecover",
+  "categorie": {
+    "categorieId": "myeco_cat001",
+    "denumire": "Rufe",
+    "descriere": "Detergenti ecologici pentru rufe."
+  },
+  "disponibilitate": "Disponibil",
+  "ecoTags": [
+    "detergent universal",
+    "rufe",
+    "caprifoi",
+    "jasmin"
+  ],
+  "furnizor": {
+    "furnizorId": "f002",
+    "denumire": "MyEco.md",
+    "site": "https://myeco.md/",
+    "telefon": "+37367380740"
+  },
+  "moneda": "MDL",
+  "numeProdus": "Ecover Detergent lichid universal cu Caprifoi si Jasmin 1.5 L",
+  "pret": 600,
+  "ratingMediu": 0,
+  "recenzii": [],
+  "stoc": 10,
+  "sursa": "https://myeco.md/"
+},
+{
+  "_id": {
+    "$oid": "6a20828da1f61bea420c83d1"
+  },
+  "produsId": "myeco_p004",
+  "actualizatLa": "2026-06-03",
+  "brand": "Ecover",
+  "categorie": {
+    "categorieId": "myeco_cat002",
+    "denumire": "Vase",
+    "descriere": "Produse ecologice pentru spalarea vaselor."
+  },
+  "disponibilitate": "Out of Stock",
+  "ecoTags": [
+    "detergent vase",
+    "rodie",
+    "fig",
+    "eco"
+  ],
+  "furnizor": {
+    "furnizorId": "f002",
+    "denumire": "MyEco.md",
+    "site": "https://myeco.md/",
+    "telefon": "+37367380740"
+  },
+  "moneda": "MDL",
+  "numeProdus": "ECOVER Detergent lichid pentru vase cu rodie si fig 450 ml",
+  "pret": 95,
+  "ratingMediu": 4,
+  "recenzii": [
+    {
+      "recenzieId": "r003",
+      "utilizator": "Client anonim",
+      "rating": 4,
+      "comentariu": "Produs util pentru vase si potrivit pentru gospodarie.",
+      "data": "2026-06-03"
+    }
+  ],
+  "stoc": 0,
+  "sursa": "https://myeco.md/"
+},
+{
+  "_id": {
+    "$oid": "6a20828da1f61bea420c83d2"
+  },
+  "produsId": "myeco_p005",
+  "actualizatLa": "2026-06-03",
+  "brand": "Ecover",
+  "categorie": {
+    "categorieId": "myeco_cat002",
+    "denumire": "Vase",
+    "descriere": "Produse ecologice pentru spalarea vaselor."
+  },
+  "disponibilitate": "Out of Stock",
+  "ecoTags": [
+    "tablete vase",
+    "masina de spalat vase",
+    "all-in-one",
+    "eco"
+  ],
+  "furnizor": {
+    "furnizorId": "f002",
+    "denumire": "MyEco.md",
+    "site": "https://myeco.md/",
+    "telefon": "+37367380740"
+  },
+  "moneda": "MDL",
+  "numeProdus": "ECOVER Tablete ecologice pentru masina de spalat vase All-in-one 500 gr",
+  "pret": 270,
+  "ratingMediu": 0,
+  "recenzii": [],
+  "stoc": 0,
+  "sursa": "https://myeco.md/"
+},
+{
+  "_id": {
+    "$oid": "6a20828da1f61bea420c83d3"
+  },
+  "produsId": "myeco_p006",
+  "actualizatLa": "2026-06-03",
+  "brand": "Ecover",
+  "categorie": {
+    "categorieId": "myeco_cat002",
+    "denumire": "Vase",
+    "descriere": "Produse ecologice pentru spalarea vaselor."
+  },
+  "disponibilitate": "Out of Stock",
+  "ecoTags": [
+    "detergent vase",
+    "lamaie",
+    "aloe-vera",
+    "eco"
+  ],
+  "furnizor": {
+    "furnizorId": "f002",
+    "denumire": "MyEco.md",
+    "site": "https://myeco.md/",
+    "telefon": "+37367380740"
+  },
+  "moneda": "MDL",
+  "numeProdus": "Ecover Detergent lichid pentru vase cu lamaie si aloe-vera 950 ml",
+  "pret": 160,
+  "ratingMediu": 0,
+  "recenzii": [],
+  "stoc": 0,
+  "sursa": "https://myeco.md/"
+},
+{
+  "_id": {
+    "$oid": "6a20828da1f61bea420c83d4"
+  },
+  "produsId": "myeco_p007",
+  "actualizatLa": "2026-06-03",
+  "brand": "Ecover",
+  "categorie": {
+    "categorieId": "myeco_cat003",
+    "denumire": "Curatenie",
+    "descriere": "Produse ECO pentru suprafete, baie, geamuri si toaleta."
+  },
+  "disponibilitate": "Out of Stock",
+  "ecoTags": [
+    "curatat toaleta",
+    "salvie",
+    "eco",
+    "curatenie"
+  ],
+  "furnizor": {
+    "furnizorId": "f002",
+    "denumire": "MyEco.md",
+    "site": "https://myeco.md/",
+    "telefon": "+37367380740"
+  },
+  "moneda": "MDL",
+  "numeProdus": "ECOVER Solutie ECO pentru curatat toaleta Ocean Fresh si Salvie 750 ml",
+  "pret": 105,
+  "ratingMediu": 0,
+  "recenzii": [],
+  "stoc": 0,
+  "sursa": "https://myeco.md/"
+},
+{
+  "_id": {
+    "$oid": "6a20828da1f61bea420c83d5"
+  },
+  "produsId": "myeco_p008",
+  "actualizatLa": "2026-06-03",
+  "brand": "Ecover",
+  "categorie": {
+    "categorieId": "myeco_cat003",
+    "denumire": "Curatenie",
+    "descriere": "Produse ECO pentru suprafete, baie, geamuri si toaleta."
+  },
+  "disponibilitate": "Disponibil",
+  "ecoTags": [
+    "suprafete dure",
+    "lemongrass",
+    "ghimbir",
+    "eco"
+  ],
+  "furnizor": {
+    "furnizorId": "f002",
+    "denumire": "MyEco.md",
+    "site": "https://myeco.md/",
+    "telefon": "+37367380740"
+  },
+  "moneda": "MDL",
+  "numeProdus": "Ecover Solutie universala pentru suprafete dure cu Lemongrass si Ghimbir 1 L",
+  "pret": 155,
+  "ratingMediu": 0,
+  "recenzii": [],
+  "stoc": 18,
+  "sursa": "https://myeco.md/"
+},
+{
+  "_id": {
+    "$oid": "6a20828da1f61bea420c83d6"
+  },
+  "produsId": "myeco_p009",
+  "actualizatLa": "2026-06-03",
+  "brand": "Ecover",
+  "categorie": {
+    "categorieId": "myeco_cat003",
+    "denumire": "Curatenie",
+    "descriere": "Produse ECO pentru suprafete, baie, geamuri si toaleta."
+  },
+  "disponibilitate": "Disponibil",
+  "ecoTags": [
+    "geamuri",
+    "ceai verde",
+    "grapefruit",
+    "eco"
+  ],
+  "furnizor": {
+    "furnizorId": "f002",
+    "denumire": "MyEco.md",
+    "site": "https://myeco.md/",
+    "telefon": "+37367380740"
+  },
+  "moneda": "MDL",
+  "numeProdus": "Spray Ecover pentru geamuri Ceai Verde si Grapefruit 500 ml",
+  "pret": 150,
+  "ratingMediu": 0,
+  "recenzii": [],
+  "stoc": 22,
+  "sursa": "https://myeco.md/"
+},
+{
+  "_id": {
+    "$oid": "6a20828da1f61bea420c83d7"
+  },
+  "produsId": "myeco_p010",
+  "actualizatLa": "2026-06-03",
+  "brand": "Azeta",
+  "categorie": {
+    "categorieId": "myeco_cat004",
+    "denumire": "Igiena personala",
+    "descriere": "Produse pentru igiena si ingrijire personala."
+  },
+  "disponibilitate": "Disponibil",
+  "ecoTags": [
+    "sampon",
+    "organic",
+    "aloe vera",
+    "igiena"
+  ],
+  "furnizor": {
+    "furnizorId": "f002",
+    "denumire": "MyEco.md",
+    "site": "https://myeco.md/",
+    "telefon": "+37367380740"
+  },
+  "moneda": "MDL",
+  "numeProdus": "Azeta Sampon Organic cu Aloe Vera 200 ml",
+  "pret": 208,
+  "ratingMediu": 5,
+  "recenzii": [
+    {
+      "recenzieId": "r004",
+      "utilizator": "Client anonim",
+      "rating": 5,
+      "comentariu": "Sampon organic potrivit pentru ingrijire personala.",
+      "data": "2026-06-03"
+    }
+  ],
+  "stoc": 20,
+  "sursa": "https://myeco.md/"
+},
+{
+  "_id": {
+    "$oid": "6a20828da1f61bea420c83d8"
+  },
+  "produsId": "myeco_p011",
+  "actualizatLa": "2026-06-03",
+  "brand": "Azeta",
+  "categorie": {
+    "categorieId": "myeco_cat004",
+    "denumire": "Igiena personala",
+    "descriere": "Produse pentru igiena si ingrijire personala."
+  },
+  "disponibilitate": "Disponibil",
+  "ecoTags": [
+    "balsam",
+    "organic",
+    "aloe vera",
+    "igiena"
+  ],
+  "furnizor": {
+    "furnizorId": "f002",
+    "denumire": "MyEco.md",
+    "site": "https://myeco.md/",
+    "telefon": "+37367380740"
+  },
+  "moneda": "MDL",
+  "numeProdus": "Azeta Balsam Organic cu Aloe Vera 200 ml",
+  "pret": 214,
+  "ratingMediu": 0,
+  "recenzii": [],
+  "stoc": 20,
+  "sursa": "https://myeco.md/"
+},
+{
+  "_id": {
+    "$oid": "6a20828da1f61bea420c83d9"
+  },
+  "produsId": "myeco_p012",
+  "actualizatLa": "2026-06-03",
+  "brand": "Bios & Derma",
+  "categorie": {
+    "categorieId": "myeco_cat004",
+    "denumire": "Igiena personala",
+    "descriere": "Produse pentru igiena si ingrijire personala."
+  },
+  "disponibilitate": "Disponibil",
+  "ecoTags": [
+    "gel de dus",
+    "amidon de orez",
+    "igiena",
+    "natural"
+  ],
+  "furnizor": {
+    "furnizorId": "f002",
+    "denumire": "MyEco.md",
+    "site": "https://myeco.md/",
+    "telefon": "+37367380740"
+  },
+  "moneda": "MDL",
+  "numeProdus": "Gel de dus cu amidon de orez 500 ml",
+  "pret": 220,
+  "ratingMediu": 0,
+  "recenzii": [],
+  "stoc": 30,
+  "sursa": "https://myeco.md/"
+}]

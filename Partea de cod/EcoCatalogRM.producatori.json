@@ -1,0 +1,88 @@
+[{
+  "_id": {
+    "$oid": "6a204966a0dc2c8d93a9c149"
+  },
+  "producatorId": "prod001",
+  "denumire": "EcoMoldova Farm",
+  "localitate": "Orhei",
+  "descriere": "Producător local de produse alimentare și agricole ECO.",
+  "contact": {
+    "telefon": "+37360000001",
+    "email": "contact@ecomoldovafarm.md"
+  },
+  "certificari": [
+    "BIO",
+    "Organic"
+  ],
+  "ratingMediu": 4.8
+},
+{
+  "_id": {
+    "$oid": "6a20497da0dc2c8d93a9c14b"
+  },
+  "producatorId": "prod002",
+  "denumire": "VerdeNistru",
+  "localitate": "Criuleni",
+  "descriere": "Producător de ceaiuri naturale, plante aromatice și produse locale.",
+  "contact": {
+    "telefon": "+37360000002",
+    "email": "info@verdenistru.md"
+  },
+  "certificari": [
+    "Local ECO"
+  ],
+  "ratingMediu": 4.6
+},
+{
+  "_id": {
+    "$oid": "6a2049b1a0dc2c8d93a9c14d"
+  },
+  "producatorId": "prod003",
+  "denumire": "BioOrhei",
+  "localitate": "Orhei",
+  "descriere": "Producător de cosmetice naturale și produse de îngrijire.",
+  "contact": {
+    "telefon": "+37360000003",
+    "email": "office@bioorhei.md"
+  },
+  "certificari": [
+    "Natural",
+    "Cruelty Free"
+  ],
+  "ratingMediu": 4.7
+},
+{
+  "_id": {
+    "$oid": "6a2049c8a0dc2c8d93a9c14f"
+  },
+  "producatorId": "prod004",
+  "denumire": "EcoClean Chișinău",
+  "localitate": "Chișinău",
+  "descriere": "Producător de soluții ecologice pentru curățenie.",
+  "contact": {
+    "telefon": "+37360000004",
+    "email": "support@ecoclean.md"
+  },
+  "certificari": [
+    "Biodegradabil"
+  ],
+  "ratingMediu": 4.5
+},
+{
+  "_id": {
+    "$oid": "6a2049dca0dc2c8d93a9c151"
+  },
+  "producatorId": "prod005",
+  "denumire": "TextilVerde Moldova",
+  "localitate": "Bălți",
+  "descriere": "Producător de textile ECO și produse reutilizabile.",
+  "contact": {
+    "telefon": "+37360000005",
+    "email": "contact@textilverde.md"
+  },
+  "certificari": [
+    "Organic Cotton",
+    "Recycled"
+  ],
+  "ratingMediu": 4.4
+}]

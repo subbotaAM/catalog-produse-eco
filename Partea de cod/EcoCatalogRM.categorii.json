@@ -1,0 +1,75 @@
+[{
+  "_id": {
+    "$oid": "6a20447ba0dc2c8d93a9c130"
+  },
+  "categorieId": "cat001",
+  "denumire": "Produse alimentare ECO",
+  "descriere": "Produse naturale pentru consum alimentar, obținute fără aditivi artificiali.",
+  "exemple": [
+    "miere",
+    "ceai",
+    "gem",
+    "fructe uscate",
+    "ulei presat la rece"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a2047bca0dc2c8d93a9c135"
+  },
+  "categorieId": "cat002",
+  "denumire": "Cosmetice naturale",
+  "descriere": "Produse cosmetice pe bază de ingrediente naturale și extracte vegetale.",
+  "exemple": [
+    "săpun natural",
+    "cremă",
+    "ulei cosmetic",
+    "balsam",
+    "șampon solid"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a2047dca0dc2c8d93a9c137"
+  },
+  "categorieId": "cat003",
+  "denumire": "Produse agricole ECO",
+  "descriere": "Produse agricole locale cultivate prin metode ecologice.",
+  "exemple": [
+    "legume",
+    "fructe",
+    "cereale",
+    "semințe",
+    "plante aromatice"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a2047eea0dc2c8d93a9c139"
+  },
+  "categorieId": "cat004",
+  "denumire": "Produse de curățenie ECO",
+  "descriere": "Produse pentru curățenie realizate din ingrediente biodegradabile.",
+  "exemple": [
+    "detergent ECO",
+    "soluție universală",
+    "săpun de rufe",
+    "dezinfectant natural",
+    "bureți biodegradabili"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a204801a0dc2c8d93a9c13b"
+  },
+  "categorieId": "cat005",
+  "denumire": "Textile ECO",
+  "descriere": "Produse textile realizate din materiale naturale, reciclate sau sustenabile.",
+  "exemple": [
+    "sacoșe textile",
+    "tricouri organice",
+    "prosoape bambus",
+    "șervețele reutilizabile",
+    "haine din bumbac organic"
+  ]
+}]
